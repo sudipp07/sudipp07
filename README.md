@@ -1,10 +1,7 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there 👋, I'm Sudip</h1>
-<h3 align="center">Aspiring Software Developer | Python | Java</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B2FF&center=true&vCenter=true&width=440&lines=Just+a+dev+in+the+making.;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Sudip.;Aspiring+Developer+%7C+Learning+Git+&+Web=Dev.;Still+figuring+it+out." alt="Typing SVG" />
 </p>
 
 ---
@@ -18,6 +15,10 @@
 - 📫 Reach me at: [sudipdeyy01@gmail.com]
 
 ---
+
+### 📊 GitHub Stats 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipp07&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+
 
 ### 🧠 I’m Learning
 ```bash
