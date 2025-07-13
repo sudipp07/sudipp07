@@ -1,7 +1,10 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Sudip.;Aspiring+Developer+%7C+Learning+Git+&+Web=Dev.;Still+figuring+it+out." alt="Typing SVG" />
+  <!-- Your Typing SVG link -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tektur&duration=3000&pause=700&color=00FF7F&background=1A1A1A00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sudip%F0%9F%91%8B;Aspiring+Dev+%7C+Git+%26+Web+Dev;Still+figuring+it+out." alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -17,8 +20,15 @@
 ---
 
 ### 📊 GitHub Stats 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipp07&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipp07&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+ </p>
+  <br>
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sudipp07&theme=react-dark&hide_border=true&area=true&custom_title=Sudip's%20Activity%20Graph" />
+</p>
 
+---
 
 ### 🧠 I’m Learning
 ```bash
