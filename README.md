@@ -23,7 +23,13 @@
  <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipp07&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
  </p>
-  <br>
+
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=sudipp07&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"></p>
+ 
+   <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sudipp07&theme=midnight-purple&hide_border=false"></p>
+
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sudipp07&theme=react-dark&hide_border=true&area=true&custom_title=Sudip's%20Activity%20Graph" />
 </p>
